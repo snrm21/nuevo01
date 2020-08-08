@@ -1,0 +1,7 @@
+Base de Datos:
+-Crear algo para que el administrador porque el empleado tendra la posibilidad de registrar en el sistema mas usuarios.
+-las relaciones
+-tabla intermedia
+-roles
+
+
